@@ -1,0 +1,95 @@
+@media screen and (max-width:414px) {
+
+  .name {
+    font-size: 1.2em;
+  }
+
+  .ninja {
+    margin-top: 0;
+  }
+
+  .logo {
+    top:13px;
+  }
+
+  #mainImg3 {
+    display: inline;
+    width:100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+
+  #mainImg1 {
+    display: none;
+  }
+
+  #mainImg2 {
+    display: none;
+  }
+
+  #project1 {
+    width: 80%;
+    margin: auto;
+  }
+
+  #project2 {
+    width:80%;
+    margin: auto;
+    margin-top: 10px;
+  }
+
+  #project3 {
+    width:80%;
+    margin: auto;
+    margin-top: 10px;
+  }
+
+}
+
+
+@media screen and (min-width:415px) and (max-width:768px) {
+
+  .name {
+    font-size: 1.5em;
+  }
+
+  .ninja {
+    margin-top: 0;
+  }
+
+
+  #mainImg2 {
+    display: inline;
+    width:100%;
+    margin-bottom: 20px;
+    border-radius: 10px;
+  }
+
+  #mainImg1  {
+    display: none;
+  }
+
+  #mainImg3 {
+    display: none;
+  }
+
+  .featuredWork {
+    font-size: 1.5em;
+  }
+
+  #project1 {
+    width: 47.5%;
+  }
+
+  #project2 {
+    width: 47.5%;
+  }
+
+  #project3 {
+    width: 47.5%;
+    margin: auto;
+    margin-top: 7px;
+  }
+
+
+}
